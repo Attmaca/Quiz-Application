@@ -37,10 +37,15 @@ The file questions.json contains all quiz questions:
 
 3) User Starts the Quiz
 
+
 	•	User enters their name
+
 	•	Quiz questions are shuffled
+
 	•	Answers are validated
+
 	•	Score is calculated
+
 	•	Score is added to leaderboard
 
 5) Leaderboard
@@ -50,8 +55,10 @@ Displays all users sorted by score (highest → lowest).
 Example output:
 
 ===== Leaderboard =====
+
 1. Ahmet: 7 points
 2. Beyza: 6 points
+3. 
 =======================
 
 🏗️ Class Overview
@@ -74,10 +81,15 @@ Handles the quiz session.
 
 Responsibilities:
 	•	Shuffling the questions
+	
 	•	Displaying question text and options
+	
 	•	Validating user input
+	
 	•	Tracking user score
+	
 	•	Showing the final result
+	
 
 ⸻
 
@@ -86,9 +98,13 @@ Responsibilities:
 Represents the quiz player.
 
 Responsibilities:
+
 	•	Storing username
+	
 	•	Starting the quiz
+	
 	•	Updating the leaderboard
+	
 
 The leaderboard is a class variable, meaning it belongs to all users.
 
