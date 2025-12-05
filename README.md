@@ -101,8 +101,11 @@ Question 1: Which planet is known as the Red Planet?
 2) Mars
 3) Jupiter
 4) Saturn
+
 Enter your answer: 1
+
 Wrong...
+
 Correct answer: Mars
 
 👥 Group Members (Control-Z)
