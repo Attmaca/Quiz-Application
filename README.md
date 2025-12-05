@@ -6,19 +6,21 @@ The application loads questions from a JSON file, allows users to take a multipl
 🚀 Features
 
 ✔ Object-Oriented design (User, Quiz, Question classes)
+
 ✔ Loads questions from a JSON file
+
 ✔ Shuffles questions each game
+
 ✔ Automatic scoring system
+
 ✔ Input validation using try/except
+
 ✔ Shows correct answer when user is wrong
+
 ✔ Leaderboard stored as class-level data
+
 ✔ Interactive menu with Start / Leaderboard / Exit options
 
-🧩 Project Structure
-📂 Quiz-Application
-│── quiz_app.py
-│── questions.json
-│── README.md
 
 🧠 How It Works
 1) Questions Loaded from JSON
