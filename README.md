@@ -24,25 +24,31 @@ The application loads questions from a JSON file, allows users to take a multipl
 
 🧠 How It Works
 1) Questions Loaded from JSON
+
 The file questions.json contains all quiz questions:
+
 {
   "text": "What is the capital of France?",
+  
   "options": ["London", "Berlin", "Paris", "Rome"],
+  
   "correct": 2
 }
 
-2) User Starts the Quiz
+3) User Starts the Quiz
+
 	•	User enters their name
 	•	Quiz questions are shuffled
 	•	Answers are validated
 	•	Score is calculated
 	•	Score is added to leaderboard
 
-3) Leaderboard
+5) Leaderboard
 
 Displays all users sorted by score (highest → lowest).
 
 Example output:
+
 ===== Leaderboard =====
 1. Ahmet: 7 points
 2. Beyza: 6 points
@@ -89,6 +95,7 @@ The leaderboard is a class variable, meaning it belongs to all users.
 📸 Example Program Output
 
 ========== General Knowledge Quiz ==========
+
 Question 1: Which planet is known as the Red Planet?
 1) Venus
 2) Mars
