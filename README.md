@@ -126,18 +126,21 @@ Correct answer: Mars
 
 👥 Group Members (Control-Z)
 
-Beyza Nur Çelik
-20232831
-Ahmet Atmaca
-20230526
+Beyza Nur Çelik 20232831
+
+Ahmet Atmaca 20230526
 
 
 📄 Course Information
+
 Course: AII108 Object Oriented Programming
+
 Instructor: AMR ABDELBARI
+
 Date: 05.12.2025
 
 🏁 Conclusion
+
 This project demonstrates the practical application of Object-Oriented Programming in Python.
 By designing multiple classes, handling user input, and structuring external data with JSON,
 we created a fully functional quiz system with a leaderboard.
