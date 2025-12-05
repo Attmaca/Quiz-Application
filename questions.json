@@ -1,0 +1,52 @@
+[
+  {
+    "text": "What is the capital city of Australia?",
+    "options": ["Sydney", "Canberra", "Melbourne", "Perth"],
+    "correct": 1
+  },
+  {
+    "text": "Which planet is known as the 'Red Planet'?",
+    "options": ["Venus", "Jupiter", "Mars", "Saturn"],
+    "correct": 2
+  },
+  {
+    "text": "Who wrote the play 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Leo Tolstoy"],
+    "correct": 1
+  },
+  {
+    "text": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Whale Shark", "Blue Whale", "Giraffe"],
+    "correct": 2
+  },
+  {
+    "text": "How many continents are there on Earth?",
+    "options": ["5", "6", "7", "8"],
+    "correct": 2
+  },
+  {
+    "text": "Which country is famous for the pyramids?",
+    "options": ["Mexico", "Egypt", "India", "China"],
+    "correct": 1
+  },
+  {
+    "text": "What is the chemical symbol for Gold?",
+    "options": ["Ag", "Au", "Go", "Gd"],
+    "correct": 1
+  },
+  {
+    "text": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+    "correct": 2
+  },
+  {
+    "text": "What is the longest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "correct": 1
+  },
+  {
+    "text": "Which language has the most native speakers in the world?",
+    "options": ["English", "Spanish", "Mandarin Chinese", "Hindi"],
+    "correct": 2
+  }
+]
